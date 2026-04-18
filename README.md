@@ -1,5 +1,13 @@
 # MEMORY CORE ENTERPRISE v3.0
+---
 
+## 📜 A-CODE Compliance
+
+Memory Core Enterprise is the **canonical implementation** of the mandatory **[MEMORY-PRIORITY-1](MEMORY-PRIORITY-1.md)** sub-protocol under the global **[A-CODE (AC-2026-INF)](https://github.com/Entonialiev/A-CODE-Standard-Core)** standard.
+
+**[📋 View Full Compliance Statement](COMPLIANCE.md)**
+
+---
 **Внешний микросервис долговременной памяти для LLM-ассистентов**
 
 [![A-CODE Verified](https://img.shields.io/badge/A--CODE-MANDATORY-blue)](https://github.com/Entonialiev/A-CODE-Standard-Core)
